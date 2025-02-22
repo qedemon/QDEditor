@@ -22,7 +22,3 @@ export function EditorContainer({children, css, ...props}){
         </div>
     )
 }
-
-const EditorHeaderCSS = css`
-    width: 100%;
-`;
